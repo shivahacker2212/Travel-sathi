@@ -7,3 +7,4 @@ Official documentation is available in `docs/`:
 - `docs/sdk.md` — Client SDK functions and usage
 - `docs/components.md` — UI components, props, and examples
 - `docs/models.md` — Core data models and JSON schemas
+ - `docs/projects.md` — Portfolio and ML project summaries
